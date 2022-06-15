@@ -22,10 +22,10 @@ The prototype sketch looks like this :
   
 The final visualization in Tableau looks like this :
   
-![png](viz2-1.jpg)
+![png](viz2-1.png)
   
-![png](viz2-2.jpg)
+![png](viz2-2.png)
   
-![png](viz2-3.jpg)
+![png](viz2-3.png)
 
 <h3>Visualization 3</h3>
