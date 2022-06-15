@@ -14,6 +14,7 @@ Mouhamadou Moustapha Niane<br><br></i>
 <h3>Visualization 1</h3>
 
 <h3>Visualization 2</h3>
+
 This visualization is made with Tableau and is presented in the file <b>Viz2.twb<b>.
 We want at the same time a regional visualization and a vision of popular names. Considering this, a regional map linked to a bar chart representing respectively the number of births by department and by name is appropriate. We can add a filter to watch the effects of a particular name or year on the data.
 The prototype sketch looks like this :
