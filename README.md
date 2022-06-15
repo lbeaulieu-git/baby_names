@@ -15,7 +15,7 @@ Mouhamadou Moustapha Niane<br><br></i>
 
 <h1>Visualization 1</h1>
 
-This visualization is made with Tableau and is presented in the file <b>Dashboard_Visualization1.twb</b>. To be able to see it, it's necessary to download and unzip the file <b><a href="https://github.com/lbeaulieu-git/baby_names/raw/main/Viz1.zip">Viz1.zip</a></b> on this repo. The main Tableau file and the 2 datasets used are in it.
+This visualization is made with Tableau and is presented in the file <b>Dashboard_Visualization1.twb</b>. To be able to see it, it's necessary to download and unzip the file <b><a href="https://github.com/lbeaulieu-git/baby_names/raw/main/Viz1.zip">Viz1.zip</a></b> on this repo.
 
 We build a data preprocessing pipeline in order to preprocess our several dataset : 
 1/ Drop useless data such as ``_PRENOMS_RARES`` and ```XXXX`` in annais field
@@ -31,6 +31,8 @@ This graph shows the evolution of the top 5 names from 1900 to 2020.
 We can see that these 5 most popular names from our dataset vary from year to year.
 We can see that these 5 names don't always stay the most popular according to the years. For example, the first name "Jean" was very popular in the 50's then this popularity has diminished over the years and especially in the 2000's.
 
+![png](Viz1-1.png)
+
 #### - Second Viz : TOP 5 most unpopular baby name evolution over time
 _Are there names that have consistently remained popular or unpopular?_
 _Are there some that have were suddenly or briefly popular or unpopular?_
@@ -38,12 +40,15 @@ _Are there some that have were suddenly or briefly popular or unpopular?_
 We can see that these 5 most unpopular names from our dataset don't vary from year to year. 
 Indeed, it turns out that the unpopularity of these 5 names remains constant over time. We therefore conclude that unpopular names seem to remain unpopular over time. For example, the name "AAHIL" has been attributed only 3 times to an individual from 1900 to 2020
 
+![png](Viz1-2.png)
+
 #### - Third Viz : TOP 5 popular names each year
 _How do baby names evolve over time?_
 
 This bar-chart differs from the line-graph above because it displays the top 5 most popular names each year. 
 We can see that this top 5 changes according to the years. This confirms again that the phenomenon that the most popular names for a given year will not necessarily be the same for the following year. 
 
+![png](Viz1-3.png)
 
 #### - Fourth Viz : TOP 5 unpopular names each year
 _How do baby names evolve over time?_
@@ -51,13 +56,17 @@ _How do baby names evolve over time?_
 This bar chart displays the top 5 least popular names for each year
 We can observe that this top 5 remains constant every year. This means that the least popular names remain unpopular over time
 
+![png](Viz1-4.png)
+
 #### - Fifth Viz : Baby names Evolutions
 _How do baby names evolve over time?_
 _Are there trends in time ?_
 
 For one or more given names, this graph displays the evolution of the names
 This graph allows you to observe the evolution of one or more names over time. 
-The advantage of this graph is that it shows the trends of the attribution of names over the years. It is easy to observe the effects of seasonality (for example, names come back popular every 4 years) 
+The advantage of this graph is that it shows the trends of the attribution of names over the years. It is easy to observe the effects of seasonality (for example, names come back popular every 4 years)
+
+![png](Viz1-5.png)
 
 <h1>Visualization 2</h1>
 
