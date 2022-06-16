@@ -94,4 +94,6 @@ The pyramid visualization allows us to answer the question of the evolution of g
 
 More precisely, we can notice that each department has the same proportion of male and female names given over time. The number of male and female names given to newborns increases over time in all departments: this is due to the increase of the global population in the country. However we can notice a strong rebound of the population in Guyana, we went from a population of 150 new born with a male name and 150 new born with a female name in 1900 to more than 2000 new born with a male name and nearly 1800 new born with a female name.
 
+A screenshot of the pyramid can be found bellow :
+
 ![png](Viz3-1.png)
