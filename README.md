@@ -1,4 +1,4 @@
-<h1><font size=5>IGR204 - mini-project "Baby Names"</font></h1>
+<h1><font size=5>IGR204 - mini-project "Baby Names"- Group H</font></h1>
 <i>Louis Beaulieu<br>
 Sara Boutigny<br>
 Julien Lair<br>
