@@ -87,3 +87,11 @@ The final visualization in Tableau looks like this :
 
 
 <h1>Visualization 3</h1>
+
+This visualization is made with Altair and is presented in the Zip file <b><a href="https://github.com/lbeaulieu-git/baby_names/raw/main/Viz3.zip">Viz3.zip</a></b> on this repo.
+
+The pyramid visualization allows us to answer the question of the evolution of gender in the data: here, a part of the departments is represented, with the volume of males on one side and the volume of females on the other. A slider allows to observe the evolution every 10 years.
+
+More precisely, we can notice that each department has the same proportion of male and female names given over time. The number of male and female names given to newborns increases over time in all departments: this is due to the increase of the global population in the country. However we can notice a strong rebound of the population in Guyana, we went from a population of 150 new born with a male name and 150 new born with a female name in 1900 to more than 2000 new born with a male name and nearly 1800 new born with a female name.
+
+![png](Viz3-1.png)
